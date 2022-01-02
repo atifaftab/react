@@ -1,4 +1,6 @@
-import Todo from "./components/Todos";
+import Backdrop from "./components/Backdrop";
+import Modal from "./components/Modal";
+import Todo from "./components/Todo";
 
 function App() {
   return (
